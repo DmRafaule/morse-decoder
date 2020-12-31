@@ -1,0 +1,11 @@
+Simple example of decoding morse cipher
+
+For useability: 
+ In Linux OS
+    go to workdirectory, then build 
+    run cmake ..
+    then
+    run make
+
+ In Windows OS
+    use cmake GUI
